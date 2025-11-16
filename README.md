@@ -33,3 +33,5 @@ The objective of this thesis was to build a scalable and reliable data ingestion
 - Azure Databricks · MongoDB  
 - FastAPI · Delta Lake  
 - LaTeX · Git/GitHub
+### Document 
+Link: https://github.com/Trolobubu/Thesis-BigData-JudithMartinez/blob/main/Pipeline_ETL_thesis_Report.pdf
