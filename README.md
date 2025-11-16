@@ -26,3 +26,10 @@ The objective of this thesis was to build a scalable and reliable data ingestion
 - Transforming and storing structured data in a NoSQL database  
 - Exposing cleaned data through a REST API for analytical access  
 - Supporting operational and strategic insights for transport analysis# Thesis-BigData-JudithMartinez
+
+### Tech Stack
+
+- Python · SQL · PySpark  
+- Azure Databricks · MongoDB  
+- FastAPI · Delta Lake  
+- LaTeX · Git/GitHub
